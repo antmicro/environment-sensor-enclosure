@@ -1,4 +1,4 @@
-# Environment sensor board
+# Environment sensor board enclosure
 
 Copyright (c) 2024 [Antmicro](https://www.antmicro.com)
 
